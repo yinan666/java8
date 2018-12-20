@@ -10,7 +10,7 @@ import java.util.stream.LongStream;
  * @author: wangyinan02
  * @date: 2018/7/2
  * @time: 下午6:11
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class ForkJoinSumCalculator extends RecursiveTask<Long> {

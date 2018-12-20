@@ -5,7 +5,7 @@ package com.wangyn.test.map_newmethods;
  * @author: wangyinan02
  * @date: 2018/12/13
  * @time: 下午3:22
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class Test22 {

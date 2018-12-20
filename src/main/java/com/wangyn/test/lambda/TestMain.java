@@ -13,7 +13,7 @@ import java.util.function.Predicate;
  * @author: wangyinan02
  * @date: 2018/6/10
  * @time: 下午11:33
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class TestMain {

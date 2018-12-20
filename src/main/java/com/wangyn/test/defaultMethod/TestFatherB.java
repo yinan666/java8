@@ -5,7 +5,7 @@ package com.wangyn.test.defaultMethod;
  * @author: wangyinan02
  * @date: 2018/7/3
  * @time: 上午9:58
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class TestFatherB {

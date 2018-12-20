@@ -7,7 +7,7 @@ import java.util.List;
  * @author: wangyinan02
  * @date: 2018/6/13
  * @time: 下午4:50
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class Logger {

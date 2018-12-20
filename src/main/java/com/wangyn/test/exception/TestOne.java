@@ -5,7 +5,7 @@ package com.wangyn.test.exception;
  * @author: wangyinan02
  * @date: 2018/6/5
  * @time: 下午7:12
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class TestOne {

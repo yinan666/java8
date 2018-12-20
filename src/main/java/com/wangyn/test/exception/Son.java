@@ -5,7 +5,7 @@ package com.wangyn.test.exception;
  * @author: wangyinan02
  * @date: 2018/6/6
  * @time: 下午9:08
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class Son extends Father {

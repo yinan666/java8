@@ -8,7 +8,7 @@ import java.util.Map;
  * @author: wangyinan02
  * @date: 2018/9/20
  * @time: 上午11:22
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class TestOne {

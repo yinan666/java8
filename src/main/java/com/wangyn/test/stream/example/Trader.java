@@ -5,7 +5,7 @@ package com.wangyn.test.stream.example;
  * @author: wangyinan02
  * @date: 2018/6/28
  * @time: 下午1:07
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class Trader {

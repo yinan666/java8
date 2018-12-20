@@ -27,7 +27,7 @@ import java.util.stream.Stream;
  * @author: wangyinan02
  * @date: 2018/6/14
  * @time: 上午11:59
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class TestStream {

@@ -5,7 +5,7 @@ package com.wangyn.test.jmap;
  * @author: wangyinan02
  * @date: 2018/9/20
  * @time: 上午11:21
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class UserDto {

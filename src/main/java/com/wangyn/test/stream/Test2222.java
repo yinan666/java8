@@ -8,7 +8,7 @@ import java.util.List;
  * @author: wangyinan02
  * @date: 2018/9/10
  * @time: 下午4:27
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class Test2222 {

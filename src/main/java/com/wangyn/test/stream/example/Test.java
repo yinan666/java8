@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
  * @author: wangyinan02
  * @date: 2018/6/28
  * @time: 下午1:10
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class Test {

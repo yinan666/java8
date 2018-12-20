@@ -9,7 +9,7 @@ import java.io.IOException;
  * @author: wangyinan02
  * @date: 2018/6/5
  * @time: 下午8:10
- * Copyright (C) 2018 Meituan
+ * Copyright (C) 2018 mine
  * All rights reserved
  */
 public class TestTryResources {
