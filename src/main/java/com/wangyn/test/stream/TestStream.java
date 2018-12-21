@@ -54,6 +54,15 @@ public class TestStream {
         System.out.println(map);
     }
 
+    /**
+     * 如果有重复的key，则选择其中一个，这里选择是原有的值
+     * @param dishList
+     */
+    public static void testToMap3(List<Dish> dishList) {
+        Map<String, Dish> map = dishList.stream().collect(Collectors.toMap(Dish::getName, Function.identity(),(oldval,newval) -> oldval));
+        System.out.println(map);
+    }
+
     public static void testToMap(List<Dish> dishList) {
         Map<String, Integer> map = dishList.stream().collect(Collectors.toMap(Dish::getName, Dish::getCalories));
         System.out.println(map);
